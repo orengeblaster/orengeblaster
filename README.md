@@ -1,4 +1,4 @@
-<img align="left" src="assets/orange.png">
+<img align="left" src="assets/orange.png" height="152">
 
 ## Hai everybody! 🧡
 My name is Orenge `pronunciation: /ˈɔrɪndʒ/` (or what I goes by on the internet). I am a aspired amateur C++ developer and a self-proclaimed free softwear avocate. I love to learn about new topics and/or more of what I currently know.
