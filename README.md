@@ -7,31 +7,33 @@ My name is Orenge `pronunciation: /ˈɔrɪndʒ/` (or what I goes by on the inter
 <summary> <h4> More stuff about me </h4> </summary>
 <p>
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
   <th> 📙 What I am learning </th>
   <th> ✨ My Interests </th>
 </tr>
 <tr> 
   <td><ui>
-    <li> ⚛️ Functional Reactive Programming&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; </li>
+    <li> ⚛️ Functional Reactive Programming</li>
     <li> 🕹️ Game Programming </li>
     <li> 💯 More C++ </li>
   </ui>
     <br>
+    <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
   </td>
-<td><ui>
-  <li> 💻 Coding (duh)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; </li>
-  <li> 🎮 Indie Video Games </li>
-  <li> 🧶 Knitting </li>
-  <li> 🆎 Linguistics </li>
-</ui></td>
+  <td><ui>
+    <li> 💻 Coding (duh) </li>
+    <li> 🎮 Indie Video Games </li>
+    <li> 🧶 Knitting </li>
+    <li> 🆎 Linguistics </li>
+  </ui>
+    <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
+  </td>
 </tr>
 </table>
 
-
 <br>
-🧩🦋🎭
+<p align="center">🧩🦋🎭</p>
 </p>
 </details>
 
