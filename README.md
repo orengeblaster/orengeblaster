@@ -1,16 +1,19 @@
-### Hi there 👋
+<img align="left" src="assets/orange.png">
 
-<!--
-**orengeblaster/orengeblaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hai everybody! 🧡
+My name is Orenge `pronunciation: /ˈɔrɪndʒ/` (or what I goes by on the internet). I am a aspired amateur C++ developer and a self-proclaimed free softwear avocate. I love to learn about new topics and/or more of what I currently know.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📙 What I am learning
+- ⚛️ Functional Reactive Programming
+- 🕹️ Game Programming
+- 💯 More C++
+
+#### ✨ My Interests
+- 💻 Coding (duh)
+- 🎮 Indie Video Games
+- 🧶 Knitting
+- 🆎 Linguistics
+
+🧩🦋🎭
