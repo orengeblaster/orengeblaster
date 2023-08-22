@@ -7,6 +7,7 @@ My name is Orenge `pronunciation: /ˈɔrɪndʒ/` (or what I goes by on the inter
 <summary> <h4> More stuff about me </h4> </summary>
 <p>
 
+<h2 align="center"> 🍊 About Me 🍊 </h2>
 <table width="100%" align="center">
 <tr>
   <th> 📙 What I am learning </th>
@@ -31,6 +32,31 @@ My name is Orenge `pronunciation: /ˈɔrɪndʒ/` (or what I goes by on the inter
   </td>
 </tr>
 </table>
+
+<h2 align="center"> 🛠️ My Toolsets 🛠️ </h2>
+<table width="100%" align="center">
+<tr>
+  <th> 💻 Development </th>
+  <th> 🎨 Media </th>
+</tr>
+<tr> 
+  <td><ui>
+    <li> 📝 Editor: VSCode </li>
+    <li> ⚙️ C/C++ Compiler: WinLibs(GCC) </li>
+  </ui>
+    <br>
+    <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
+  </td>
+  <td><ui>
+    <li> 🖥️ Raster: Aseprite, GIMP </li>
+    <li> 🪨 3D Modelling: Blockbench </li>
+    <li> 🌐 Vector: Inkscape </li>
+  </ui>
+    <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
+  </td>
+</tr>
+</table>
+
 
 <br>
 <p align="center">🧩🦋🎭</p>
