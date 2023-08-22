@@ -1,7 +1,7 @@
 <img align="left" src="assets/orange.png" height="142">
 
 ## Hai everybody! 🧡
-My name is Orenge `pronunciation: /ˈɔrɪndʒ/` (or what I goes by on the internet). I am a aspired amateur C++ developer and a self-proclaimed free softwear avocate. I love to learn about new topics and/or more of what I currently know.
+My name is Orenge `pronounce the same as "Orange"` (or what I goes by on the internet). I am a aspired amateur C++ developer and a self-proclaimed free softwear avocate. I love to learn about new topics and/or more of what I currently know.
 
 <details>
 <summary> <h4> More stuff about me </h4> </summary>
@@ -41,22 +41,21 @@ My name is Orenge `pronunciation: /ˈɔrɪndʒ/` (or what I goes by on the inter
 </tr>
 <tr> 
   <td><ui>
-    <li> 📝 Editor: VSCode </li>
-    <li> ⚙️ C/C++ Compiler: WinLibs(GCC) </li>
+    <li> 📝 Editor: <a href="https://code.visualstudio.com/">VSCode</a> </li>
+    <li> ⚙️ C/C++ Compiler: <a href="https://winlibs.com/">WinLibs(GCC)</a> </li>
   </ui>
     <br>
     <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
   </td>
   <td><ui>
-    <li> 🖥️ Raster: Aseprite, GIMP </li>
-    <li> 🪨 3D Modelling: Blockbench </li>
-    <li> 🌐 Vector: Inkscape </li>
+     <li> 🖥️ Raster: <a href="https://www.aseprite.org/">Aseprite</a>, <a href="https://www.gimp.org/">GIMP</a> </li>
+     <li> 🪨 3D Modelling: <a href="https://www.blockbench.net/">Blockbench</a> </li>
+     <li> 🌐 Vector: <a href="https://inkscape.org/">Inkscape</a> </li>
   </ui>
     <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
   </td>
 </tr>
 </table>
-
 
 <br>
 <p align="center">🧩🦋🎭</p>
