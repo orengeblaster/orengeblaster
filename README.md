@@ -11,17 +11,25 @@ I am a aspired amateur C++ developer and a self-proclaimed free softwear avocate
 <h2 align="center"> 🍊 About Me 🍊 </h2>
 <table width="100%" align="center">
 <tr>
-  <th> 📙 What I am learning </th>
+  <th> 📙 Have (Some) Experiences in </th>
+  <th> 🔬 Currently Learning/Researching </th>
   <th> ✨ My Interests </th>
 </tr>
 <tr> 
   <td><ui>
-    <li> ⚛️ Functional Reactive Programming</li>
+    <li> 🎖️ C++ </li>
+    <li> 🐍 Python </li>
+    <li> 🐧 GNU/Linux </li>
+    <li> 🟩 Vim </li>
+    <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
+  </ui>
+  <td><ui>
+    <li> ⚛️ Functional Reactive Programming </li>
     <li> 🕹️ Game Programming </li>
     <li> 💯 More C++ </li>
   </ui>
     <br>
-    <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
+    <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
   </td>
   <td><ui>
     <li> 💻 Coding (duh) </li>
@@ -29,7 +37,7 @@ I am a aspired amateur C++ developer and a self-proclaimed free softwear avocate
     <li> 🧶 Knitting </li>
     <li> 🆎 Linguistics </li>
   </ui>
-    <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
+    <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
   </td>
 </tr>
 </table>
@@ -42,6 +50,7 @@ I am a aspired amateur C++ developer and a self-proclaimed free softwear avocate
 </tr>
 <tr> 
   <td><ui>
+    <li> 🌳 Evironment: 🪟-11 + <a href="https://github.com/yuk7/ArchWSL"> ArchWSL </a></li>
     <li> 📝 Editor: <a href="https://code.visualstudio.com/">VSCode</a> </li>
     <li> ⚙️ C/C++ Compiler: <a href="https://winlibs.com/">WinLibs(GCC)</a> </li>
   </ui>
