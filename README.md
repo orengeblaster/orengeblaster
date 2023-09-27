@@ -20,21 +20,18 @@ I am a aspired amateur C++ developer and a self-proclaimed free softwear avocate
     <li> 🎖️ C++ </li>
     <li> 🐍 Python </li>
     <li> 🐧 GNU/Linux </li>
-    <li> 🟩 Vim </li>
     <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
   </ui>
   <td><ui>
-    <li> ⚛️ Functional Reactive Programming </li>
-    <li> 🕹️ Game Programming </li>
-    <li> 💯 More C++ </li>
+    <li> 🫖 3d Modeling </li>
+    <li> 🏃 Animation </li>
+    <li> 🎨 Pixel Arts </li>
   </ui>
-    <br>
     <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
   </td>
   <td><ui>
     <li> 💻 Coding (duh) </li>
     <li> 🎮 Indie Video Games </li>
-    <li> 🧶 Knitting </li>
     <li> 🆎 Linguistics </li>
   </ui>
     <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
@@ -51,7 +48,7 @@ I am a aspired amateur C++ developer and a self-proclaimed free softwear avocate
 <tr> 
   <td><ui>
     <li> 🌳 Evironment: 🪟-11 + <a href="https://github.com/yuk7/ArchWSL"> ArchWSL </a></li>
-    <li> 📝 Editor: <a href="https://code.visualstudio.com/">VSCode</a> </li>
+    <li> 📝 Editor: <a href="https://code.visualstudio.com/">VSCode</a> with 🟩 <a href="https://marketplace.visualstudio.com/items?itemName=vscodevim.vim"> Vim </a> plugin</li>
     <li> ⚙️ C/C++ Compiler: <a href="https://winlibs.com/">WinLibs(GCC)</a> </li>
   </ui>
     <br>
