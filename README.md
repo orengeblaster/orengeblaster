@@ -1,9 +1,7 @@
 <img align="left" src="assets/orange.png" height="142">
 
 ## Hai everybody! 🧡
-My name is Orenge (or what I goes by on the internet), it's pronounce the same as "Orange" btw if you wonder. 
-I am a aspired amateur C++ developer and a self-proclaimed free softwear avocate. I love to learn about new topics and/or more of what I currently know.
-
+My name is Orenge (or whatever I go by on the internet). I am a free software enthusiast and an amateur C++ developer. I enjoy learning about new topics as well as expanding on what I already know about.
 <details>
 <summary> <h4> More stuff about me </h4> </summary>
 <p>
@@ -31,7 +29,7 @@ I am a aspired amateur C++ developer and a self-proclaimed free softwear avocate
   </td>
   <td><ui>
     <li> 💻 Coding (duh) </li>
-    <li> 🎮 Indie Video Games </li>
+    <li> 🎮 Video Games </li>
     <li> 🆎 Linguistics </li>
   </ui>
     <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
