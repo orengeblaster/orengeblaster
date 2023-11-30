@@ -51,7 +51,6 @@ I am a aspired amateur C++ developer and a self-proclaimed free softwear avocate
     <li> 📝 Editor: <a href="https://code.visualstudio.com/">VSCode</a> with 🟩 <a href="https://marketplace.visualstudio.com/items?itemName=vscodevim.vim"> Vim </a> plugin</li>
     <li> ⚙️ C/C++ Compiler: <a href="https://winlibs.com/">WinLibs(GCC)</a> </li>
   </ui>
-    <br>
     <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</p>
   </td>
   <td><ui>
